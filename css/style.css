@@ -1,0 +1,51 @@
+body{
+    background-color: #7F5AF0;
+}
+
+div.right{
+    position: relative;
+    
+    text-align: center; 
+}
+
+
+.container-img-der{
+    margin-top: 228px;
+    margin-left: 110px;
+    margin-right: 50px; 
+}
+
+.punto-der {
+    
+    margin-left: 20px;
+    
+    margin-bottom: 30px;
+}
+
+.container-img-izq{
+    margin-top: 228px;
+   
+}
+
+.punto-izq {
+    margin-left: -120px;
+     
+    margin-bottom: 30px;
+}
+
+.img-y {
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.img-D {
+    margin-left: 45px;
+}
+
+@media (max-width: 360px) {
+    .container-img-der {
+        width: 100%;
+    }
+  }
+
+

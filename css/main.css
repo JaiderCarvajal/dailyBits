@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+}
+
+.grid-container-inicio {
+  display: grid;
+}
+
+.grid-item1-inicio {
+  text-align: center;
+  margin-top: 32px;
+}
+
+.grid-item2-inicio {
+  text-align: center;
+  color: white;
+}
+.grid-item3-inicio {
+  text-align: center;
+}
+.grid-item4-inicio {
+  text-align: center;
+}
+.grid-item5-inicio {
+  text-align: center;
+}
+.grid-item6-inicio {
+  text-align: center;
+}
+
+h1{
+    font-size: 32px;
+}
